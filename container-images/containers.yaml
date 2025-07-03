@@ -11,6 +11,8 @@ container_images:
 - imagename: quay.io/podified-master-centos9/openstack-ceilometer-compute:current-podified
 - imagename: quay.io/podified-master-centos9/openstack-ceilometer-notification:current-podified
 - imagename: quay.io/podified-master-centos9/openstack-ceilometer-ipmi:current-podified
+- imagename: quay.io/podified-master-centos9/openstack-cloudkitty-api:current-podified
+- imagename: quay.io/podified-master-centos9/openstack-cloudkitty-processor:current-podified
 - imagename: quay.io/podified-master-centos9/openstack-cinder-api:current-podified
 - imagename: quay.io/podified-master-centos9/openstack-cinder-backup:current-podified
 - imagename: quay.io/podified-master-centos9/openstack-cinder-scheduler:current-podified
@@ -67,6 +69,7 @@ container_images:
 - imagename: quay.io/podified-master-centos9/openstack-placement-api:current-podified
 - imagename: quay.io/podified-master-centos9/openstack-rabbitmq:current-podified
 - imagename: quay.io/podified-master-centos9/openstack-redis:current-podified
+- imagename: quay.io/podified-master-centos9/openstack-valkey:current-podified
 - imagename: quay.io/podified-master-centos9/openstack-swift-account:current-podified
 - imagename: quay.io/podified-master-centos9/openstack-swift-container:current-podified
 - imagename: quay.io/podified-master-centos9/openstack-swift-object:current-podified
